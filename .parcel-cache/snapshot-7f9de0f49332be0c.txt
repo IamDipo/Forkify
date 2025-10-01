@@ -1,4 +1,4 @@
-7543
+7542
 170C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\keyboardevent-code.js134012020279138054 0
 130C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\escalade134012020252045772 1
 169C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md134012020264693358 0
@@ -34,7 +34,7 @@
 174C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_class_private_field_set\package.json134012020268843789 0
 154C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.math.log1p.js134013058623986544 0
 175C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\object-getownpropertydescriptors.js134013058676971737 0
-113C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist134038025561770306 1
+113C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist134038043771633182 1
 135C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js134037995191457958 0
 153C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\UG.js134012020292677262 0
 152C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\dom-collections134013058666714438 1
@@ -1531,7 +1531,7 @@
 158C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\typed-array\filter.js134013058638653475 0
 152C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\instance\every.js134013058637015975 0
 159C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss\node_modules\detect-libc134012020249997438 1
-132C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.c5b0f01c.svg134038025561395413 0
+132C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.c5b0f01c.svg134038043771603194 0
 144C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\picomatch\package.json134012020251479505 0
 160C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\virtual\small.js134013058690787342 0
 158C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\instance\to-sorted.js134013058700273981 0
@@ -6323,7 +6323,6 @@
 167C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\document-policy.js134012020271304746 0
 176C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js134012020246547512 0
 164C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\documenthead.js134012020271451040 0
-132C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\icons.0809ef97.svg134038021530337667 0
 161C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\dommatrix.js134012020271577992 0
 160C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\download.js134012020271612386 0
 161C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\dragndrop.js134012020271664720 0
