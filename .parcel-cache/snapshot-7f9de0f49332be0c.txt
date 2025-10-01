@@ -34,8 +34,8 @@
 174C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_class_private_field_set\package.json134012020268843789 0
 154C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.math.log1p.js134013058623986544 0
 175C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\proposals\object-getownpropertydescriptors.js134013058676971737 0
-113C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist134037935428455054 1
-135C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js134037841535577070 0
+113C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist134038000911158403 1
+135C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js134037995191457958 0
 153C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\UG.js134012020292677262 0
 152C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\dom-collections134013058666714438 1
 181C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134012020246984974 0
@@ -53,7 +53,7 @@
 137C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\forkify-flowchart-part-2.png133869371056169234 0
 148C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss\node\flags.js134012020252531079 0
 155C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.promise.try.js134013058626857605 0
-119C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\index.html134037093116998692 0
+119C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\index.html134037986266125048 0
 167C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.weak-map.delete-all.js134013058636286118 0
 159C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\to-spliced.js134013058700886578 0
 155C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\virtual\link.js134013058670913588 0
@@ -64,7 +64,7 @@
 154C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\global-this.js134013058648287935 0
 139C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@msgpackr-extract134024939414745831 1
 153C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.math.cbrt.js134013058623779522 0
-121C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\package.json134037935275944074 0
+121C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\package.json134037999369506361 0
 149C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\slice.js134013058689922325 0
 156C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_create_class.cjs134012020258125205 0
 151C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\reflect\has.js134013058650043625 0
@@ -128,7 +128,7 @@
 128C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\sass\_base.scss134013040869078616 0
 144C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\node-index.js134012020255990049 0
 160C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\array\virtual\push.js134013058681616835 0
-129C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js134036141163916698 0
+129C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js134037995366682710 0
 169C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-width-stretch.js134012020270211575 0
 152C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\ts41\camel-case.d.ts134012020251489637 0
 132C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types134012024770684635 1
@@ -143,7 +143,7 @@
 147C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-js\lib\util.js134012024748280834 0
 166C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\ends-with.js134013058619568626 0
 160C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array\from-hex.js134013058644671934 0
-135C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\resultView.js134036337376632017 0
+135C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\resultView.js134037995280659075 0
 148C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\graph\src\index.js134012020256142515 0
 141C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\src\cursor.cpp134012020262210919 0
 156C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\reflect\own-keys.js134013058678141097 0
@@ -227,11 +227,11 @@
 133C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\detect-libc134012020248258944 1
 185C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\iterator-helper-throws-on-invalid-iterator.js134013058666460171 0
 160C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\async-iterator\index.js134013058657559252 0
-138C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\addRecipeView.js134037138619064183 0
+138C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\addRecipeView.js134037994109024428 0
 160C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in134012020263441790 0
 148C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\a-set.js134013058606948942 0
 131C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\commander134012020255038872 1
-138C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\bookmarksView.js134036356196528585 0
+138C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\bookmarksView.js134037994166015430 0
 138C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\is-glob\index.js134012020246159384 0
 166C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-dir-pseudo.js134012020265647428 0
 143C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\readdirp\package.json134012024738048616 0
@@ -263,10 +263,10 @@
 167C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.int16-array.js134013058630038695 0
 158C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array-buffer\index.js134013058657441244 0
 161C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\link.js134013058671222014 0
-139C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\paginationView.js134025678452551666 0
+139C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\paginationView.js134037994273539067 0
 148C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-js\lib134012020247245282 1
 157C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.object.assign.js134013058624649528 0
-136C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\previewView.js134037843755421445 0
+136C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\views\previewView.js134037995109146263 0
 155C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-svg\package.json134012020247377754 0
 152C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_to_array.cjs134012020261093197 0
 132C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\parcel\lib134012020247287920 1
@@ -6609,7 +6609,7 @@
 156C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_is_native_function134012020270565793 1
 165C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_is_native_reflect_construct134012020270619434 1
 161C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_iterable_to_array_limit134012020270714934 1
-137C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\starter.63c5a289.js.map134037927391562921 0
+137C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\starter.63c5a289.js.map134037996060311071 0
 141C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_jsx134012020270802831 1
 161C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-babel\lib\config.js134012020251529616 0
 155C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_non_iterable_rest134012020270845162 1
@@ -7519,7 +7519,7 @@
 153C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\update-browserslist-db.ps1134012020295674069 0
 134C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\starter.ce8ee305.css134037927391438960 0
 134C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\favicon.38ab3f7a.png134037927388808345 0
-124C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.html134037935428431495 0
+124C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.html134038000911138349 0
 131C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\logo.0240107d.png134037927391252393 0
-133C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\starter.63c5a289.js134037927391449919 0
+133C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\starter.63c5a289.js134037996060149489 0
 138C:\Users\DELL\Desktop\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\starter.ce8ee305.css.map134037927391562921 0
