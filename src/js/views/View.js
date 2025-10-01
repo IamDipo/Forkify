@@ -1,4 +1,7 @@
 import icons from 'url:../../img/icons.svg';
+import rawIcons from 'bundle-text:../../img/icons.svg';
+console.log('Raw icons length:', rawIcons.length); // 👈 check it’s not 0
+
 export default class View {
     _data;
 
